@@ -1,2 +1,2 @@
 # gpt_implementation
-GPT implementations from Anrej Karpathy's videos
+GPT implementations from Andrej Karpathy's videos
